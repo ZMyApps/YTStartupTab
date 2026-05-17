@@ -1,0 +1,9 @@
+Package: com.zmyapps.ytstartuptab
+Name: YTStartupTab
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Opens YouTube to Subscriptions tab.
+Maintainer: zmyapps
+Author: zmyapps
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
